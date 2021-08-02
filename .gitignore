@@ -1,0 +1,13 @@
+#Database Connection
+/include/database.php
+
+#images
+/img
+
+#css dist
+/dist
+
+#js
+/js
+
+
